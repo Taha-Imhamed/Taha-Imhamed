@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer | 2nd Year Student at UNYT Tirana<br>Passionate about building innovative solutions with clean, efficient code. Currently exploring the intersection of software development and cybersecurity.
+💻 Software Engineer | 3nd Year Student at UNYT Tirana<br>Passionate about building innovative solutions with clean, efficient code. Currently exploring the intersection of software development and cybersecurity.
 
 
 ## 🌐 Socials:
