@@ -7,7 +7,7 @@
 ---
 
 ## 🗺️ Current Quest Log
-I'm deep in the dungeon, currently exploring the crucial intersection of **Software Development** and **Cybersecurity** — turning vulnerabilities into fortifications and bugs into features.
+I AM LOST BUT THE BACK END IS WORKING SO WE ARE GOOD
 
 ---
 
