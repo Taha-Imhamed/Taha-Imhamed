@@ -1,13 +1,10 @@
-# 👾 Taha's Dev Citadel ⚔️
+# Taha's Dev Citadel 
 
-### 💻 3rd Year Software Engineer at UNYT Tirana
+###  3rd Year Software Engineer at UNYT Tirana
 
-> "In the world of code, I'm the Builder and the Sentinel. My passion is crafting innovative digital worlds and securing them with surgical precision."
+> "MEWO"
 
 ---
-
-## 🗺️ Current Quest Log
-I AM LOST BUT THE BACK END IS WORKING SO WE ARE GOOD
 
 ---
 
