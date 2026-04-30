@@ -1,16 +1,14 @@
 # Taha's Dev Citadel 
 
-###  3rd Year Software Engineer at UNYT Tirana
+### 3rd Year Software Engineering Student at UNYT Tirana
 
 > "MEWO"
 
 ---
 
----
+## Tech Stack
 
-## 🛠️ Arsenal (Tech Stack)
-
-A developer is only as good as their tools. Here's the **power-up kit** I use to bring projects to life:
+A developer is defined by the tools they use and how effectively they apply them. Below is the stack I use to build and deliver projects.
 
 | Category | Primary Tools |
 | :---: | :---: |
@@ -20,9 +18,9 @@ A developer is only as good as their tools. Here's the **power-up kit** I use to
 
 ---
 
-## 🏆 Achievement Unlocked: GitHub Stats
+## GitHub Statistics
 
-Check the leaderboard! These are my development scores. *(Try swapping the theme on these stats for a more "dark/hacker" look, like `dracula` or `radical`!)*
+The following metrics reflect development activity and consistency across repositories.
 
 | Stats | Streak | Top Languages |
 | :---: | :---: | :---: |
@@ -30,25 +28,39 @@ Check the leaderboard! These are my development scores. *(Try swapping the theme
 
 <br>
 
-### ✨ Trophies & Loot
+## Achievements
 ![](https://github-profile-trophy.vercel.app/?username=Taha-Imhamed&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 💬 Developer Wisdom Scroll
+## Developer Notes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## 🤝 Connect & Co-op
+## Projects and Focus Areas
 
-Let's build something epic together. **My DMs are open!**
+My work is primarily focused on building structured, practical systems across multiple domains:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](YOUR_FACEBOOK_URL) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_URL) 
+- Ethical Hacking Toolkit Dashboard (vulnerability scanning, traffic monitoring, reporting)
+- Cyber Security Monitoring Dashboard (real-time detection and logging)
+- Network Vulnerability Scanner (ports, weaknesses, reporting)
+- AI Assistant System (voice interaction and task execution)
+- Username Finder Tool (multi-platform search with GUI)
+- Web-based client projects (structured UI and functional design)
+
+---
+
+## Connect
+
+If you are interested in collaboration or professional discussion, feel free to connect.
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](YOUR_FACEBOOK_URL)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_URL)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 
 ---
-### 📈 Profile Views
+
+## Profile Views
 ![](https://visitcount.itsvg.in/api?id=Taha-Imhamed&icon=0&color=11)
 
-### 🔝 Top Contributed Repo
+## Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=Taha-Imhamed&limit=5&theme=dark&combine_all_yearly_contributions=true)
